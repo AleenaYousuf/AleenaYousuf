@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @AleenaYousuf
-- 👀 I’m interested in fictional 6'8+ men
-- 🌱 I’m currently learning about life
-- 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me? Pls don't
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning about G.I.T & GITHUB
+- 💞️ I’m looking to collaborate on nothing yet
+- 📫 How to reach me? Please contact me at +92 314 2975742
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: There's no funfact about me
+- ⚡ Fun fact: I can sleep for 23 hours straight 🤡
 
 <!---
 AleenaYousuf/AleenaYousuf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
